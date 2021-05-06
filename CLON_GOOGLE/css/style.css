@@ -1,0 +1,12 @@
+.cabecera{
+    text-align: right;
+}
+main{
+    align-items: center;
+}
+.footer-izquierdo{
+    align-items: initial;
+}
+.footer-derecho{
+    text-align: right;
+}
