@@ -1,12 +1,22 @@
 .cabecera{
     text-align: right;
 }
-main{
+main {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
     align-items: center;
+    flex-direction: column;
+}
+.footer{
+display:flex;
 }
 .footer-izquierdo{
-    align-items: initial;
+    text-align:left;
+    width:100%;
 }
 .footer-derecho{
     text-align: right;
+    width:100%;
 }
